@@ -1,7 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="USA| ABC EAST HD" group-title="UNITED STATES",USA| ABC EAST HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://5frtv.site:80/play/live.php?mac=00:1A:79:CF:57:20&stream=73276&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA| ABC WEST HD" group-title="UNITED STATES",USA| ABC WEST HD
-#EXTVLCOPT:cache=17238
+
